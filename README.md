@@ -1,1 +1,1 @@
-ConsoleAppNet6ZLogger
+.NET6 + ZLogger Console Sample
